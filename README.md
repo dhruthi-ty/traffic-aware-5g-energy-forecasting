@@ -1,5 +1,5 @@
 # traffic-aware-5g-energy-forecasting
-## Citation
+
 Traffic-Aware, Interpretable Energy Forecasting for 5G Base Stations
 
 Hybrid TA-GRU/XGBoost framework with SHAP explainability for interpretable 5G base station energy forecasting.
@@ -56,10 +56,7 @@ Transmit power
 
 The dataset is automatically downloaded by the script using KaggleHub.
 
-Installation
-pip install -r requirements.txt
-Run
-python green_5g_pipeline_v3.py
+
 
 The script automatically:
 
